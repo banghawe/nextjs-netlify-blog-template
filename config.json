@@ -1,10 +1,11 @@
 {
   "base_url": "https://banghawe.com",
-  "site_title": "Banghawe Blog",
+  "site_title": "Banghawe Site",
   "site_description": "My blog about many things",
   "site_keywords": [
     "python",
-    "django"
+    "django",
+    "next.js"
   ],
   "posts_per_page": 5,
   "twitter_account": "banghawe",
